@@ -1,0 +1,22 @@
+.carousel-image {
+    height: 400px;
+}
+
+.main-text p {
+    color: #df028a;
+    line-height: 1.0em;
+    font-size: 32px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    background-color: #343a40;
+    min-width: 100vw;
+}
+
+footer p {
+    margin: 0px;
+    text-align: center;
+    color: white;
+}
